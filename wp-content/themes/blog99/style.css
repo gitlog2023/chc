@@ -744,7 +744,7 @@ select {
 }
 
 select {
-    background: url(https://www.CaringHeartsCottage.com/wp-content/themes/blog99/assets/images/down-arrow.png) no-repeat right #fff;
+    background: url(/wp-content/themes/blog99/assets/images/down-arrow.png) no-repeat right #fff;
     -webkit-appearance: none;
     background-position-x: 95%;
 }
@@ -3008,7 +3008,7 @@ Comment Lists
     cursor: e-resize;
     -ms-touch-action: none;
     touch-action: none;
-    background-image: url(https://www.CaringHeartsCottage.com/wp-content/themes/blog99/assets/images/filter.png);
+    background-image: url(/wp-content/themes/blog99/assets/images/filter.png);
     background-size: cover;
     background-color: initial;
     z-index: 2;
